@@ -51,7 +51,7 @@ Front with splash screen
 
 Closeup of the splash screen.
 
-![back-482x840.jpg](media/back-482x840.jpg)
+![back-482x840.jpg](media/back-472x840.jpg)
 
 Back side and artwork
 
