@@ -4,7 +4,7 @@ title: "retro-console - A tribute to the Golden Age of video games"
 image: assets/favimage-840x210.jpg
 ---
 
-![teaser](assets/favimage-840x210.jpg)
+![teaser](assets/favimage-840x472.jpg)
 
 # retro-console
 
