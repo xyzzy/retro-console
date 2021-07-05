@@ -1,8 +1,8 @@
  ---
 layout: home
 title: "retro-console - A tribute to the Golden Age of video games"
-image: assets/favimage-840x210.jpg
----
+image: assets/favimage-840x472.jpg
+----------------------------------
 
 ![teaser](assets/favimage-840x472.jpg)  
 \[The console in use at the 2016 edition of Revision demoscene party [https://2016.revision-party.net/](https://2016.revision-party.net/)\]
