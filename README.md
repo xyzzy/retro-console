@@ -31,7 +31,7 @@ The following titles have been included:
 
  - Space invaders (1978), where it all started
  - Galaxian (1979), the first game with colours
- - Centipede (1981),using a trackball as controller (Misile command (1980) was the first)
+ - Centipede (1981),using a trackball as controller (Missile command (1980) was the first)
  - Pac-man (1980), the most successful coin-operated game
  - Phoenix (1980), first game with an end-boss
  - Donkey Kong (1981), the birth of Mario
@@ -57,11 +57,11 @@ Back side and artwork
 
 ![electronics-640x472.jpg](media/electronics-640x472.jpg)
 
-The Raspberr-Pi and sound system
+The Raspberry-Pi and sound system
 
 ![switches-840x472.jpg](media/switches-840x472.jpg)
 
-Closeup of the switches. The joystick was extra heavy dudy quality, which turned out to be a very wise choice seeing how some games made people highly enthusiastic.
+Closeup of the switches. The joystick was extra heavy duty quality, which turned out to be a very wise choice seeing how some games made people highly enthusiastic.
 
 ## Versioning
 
@@ -70,4 +70,4 @@ For the versions available, see the [tags on this repository](https://github.com
 
 ## License
 
-This project is licensed under Affero GPLv3 - see the [LICENSE.txt](LICENSE.txt) file for details.
+This project is licensed under the GNU General Public License v3 - see the [LICENSE.txt](LICENSE.txt) file for details

@@ -1,6 +1,7 @@
 # Change log
 
 ```
+2021-07-05 16:50:48 Fixed: Typos.
 2021-07-05 16:30:11 Fixed: navbars.
 2021-07-05 16:15:21 Fixed: back links.
 2021-07-05 14:46:32 Fixed: `_config.yml`.
