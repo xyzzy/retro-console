@@ -1,8 +1,8 @@
- ---
+---
 layout: home
 title: "retro-console - A tribute to the Golden Age of video games"
 image: assets/favimage-840x472.jpg
-----------------------------------
+---
 
 ![teaser](assets/favimage-840x472.jpg)  
 \[The console in use at the 2016 edition of Revision demoscene party [https://2016.revision-party.net/](https://2016.revision-party.net/)\]
@@ -11,7 +11,7 @@ image: assets/favimage-840x472.jpg
 
 A tribute to the Golden Age of video games
 
-### Welcome to the Wonderful World of browser DPI.
+### Welcome to the Wonderful World of hardware emulation
 
 This is a placeholder project containing some introductory images.
 
